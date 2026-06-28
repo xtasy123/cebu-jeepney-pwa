@@ -1,0 +1,6 @@
+{
+  "name": "sakay-cebu-pwa",
+  "private": true,
+  "type": "module",
+  "scripts": { "serve": "npx serve ." }
+}
